@@ -1,0 +1,4352 @@
+
+skeleton.png
+size: 997,997
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angel/Bp
+  rotate: false
+  xy: 1, 725
+  size: 360, 148
+  orig: 654, 1203
+  offset: 143, 417
+  index: -1
+angel/Bp_outline
+  rotate: false
+  xy: 362, 707
+  size: 369, 158
+  orig: 654, 1203
+  offset: 139, 412
+  index: -1
+angel/Dress
+  rotate: true
+  xy: 1, 479
+  size: 227, 492
+  orig: 654, 1203
+  offset: 208, 35
+  index: -1
+angel/Dress_outline
+  rotate: true
+  xy: 494, 470
+  size: 236, 502
+  orig: 654, 1203
+  offset: 204, 30
+  index: -1
+angel/L_arm
+  rotate: true
+  xy: 1, 880
+  size: 116, 228
+  orig: 654, 1203
+  offset: 186, 287
+  index: -1
+angel/L_arm_outline
+  rotate: true
+  xy: 457, 871
+  size: 125, 235
+  orig: 654, 1203
+  offset: 182, 284
+  index: -1
+angel/R_arm
+  rotate: true
+  xy: 230, 874
+  size: 122, 226
+  orig: 654, 1203
+  offset: 312, 288
+  index: -1
+angel/R_arm_outline
+  rotate: true
+  xy: 693, 866
+  size: 130, 234
+  orig: 654, 1203
+  offset: 308, 284
+  index: -1
+
+skeleton2.png
+size: 247,247
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angel_hat/Hat
+  rotate: false
+  xy: 1, 101
+  size: 236, 68
+  orig: 654, 1203
+  offset: 215, 913
+  index: -1
+angel_hat/Hat_outline
+  rotate: false
+  xy: 1, 170
+  size: 245, 76
+  orig: 654, 1203
+  offset: 211, 909
+  index: -1
+
+skeleton3.png
+size: 1031,1031
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+astronaut/L_arm
+  rotate: false
+  xy: 172, 793
+  size: 154, 237
+  orig: 654, 1203
+  offset: 134, 249
+  index: -1
+astronaut/L_arm_outline
+  rotate: false
+  xy: 1, 219
+  size: 162, 247
+  orig: 654, 1203
+  offset: 130, 244
+  index: -1
+astronaut/L_shoe
+  rotate: false
+  xy: 162, 485
+  size: 50, 30
+  orig: 654, 1203
+  offset: 246, 28
+  index: -1
+astronaut/Pants
+  rotate: false
+  xy: 1, 467
+  size: 160, 276
+  orig: 654, 1203
+  offset: 243, 55
+  index: -1
+astronaut/Pants_outline
+  rotate: false
+  xy: 1, 744
+  size: 170, 286
+  orig: 654, 1203
+  offset: 238, 50
+  index: -1
+astronaut/R_arm
+  rotate: false
+  xy: 1, 1
+  size: 155, 217
+  orig: 654, 1203
+  offset: 327, 258
+  index: -1
+astronaut/R_arm_outline
+  rotate: false
+  xy: 162, 516
+  size: 164, 227
+  orig: 654, 1203
+  offset: 323, 253
+  index: -1
+astronaut/R_shoe
+  rotate: false
+  xy: 172, 763
+  size: 51, 29
+  orig: 654, 1203
+  offset: 369, 32
+  index: -1
+astronaut/Shirt
+  rotate: false
+  xy: 164, 288
+  size: 127, 196
+  orig: 654, 1203
+  offset: 245, 317
+  index: -1
+astronaut/Shirt_outline
+  rotate: false
+  xy: 157, 13
+  size: 136, 205
+  orig: 654, 1203
+  offset: 240, 312
+  index: -1
+
+skeleton4.png
+size: 1036,1036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+astronaut_hat/Hat
+  rotate: false
+  xy: 1, 1
+  size: 558, 512
+  orig: 654, 1203
+  offset: 42, 496
+  index: -1
+astronaut_hat/Hat_outline
+  rotate: false
+  xy: 1, 514
+  size: 567, 521
+  orig: 654, 1203
+  offset: 37, 491
+  index: -1
+
+skeleton5.png
+size: 458,458
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ballet/Dress
+  rotate: true
+  xy: 160, 144
+  size: 313, 248
+  orig: 654, 1203
+  offset: 146, 263
+  index: -1
+ballet/L_shoe
+  rotate: true
+  xy: 253, 92
+  size: 51, 92
+  orig: 654, 1203
+  offset: 261, 28
+  index: -1
+ballet/R_shoe
+  rotate: true
+  xy: 160, 71
+  size: 72, 92
+  orig: 654, 1203
+  offset: 352, 31
+  index: -1
+ballet/Skin_full
+  rotate: false
+  xy: 1, 1
+  size: 158, 456
+  orig: 654, 1203
+  offset: 230, 87
+  index: -1
+
+skeleton6.png
+size: 574,574
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chef/L_arm
+  rotate: true
+  xy: 1, 474
+  size: 99, 210
+  orig: 654, 1203
+  offset: 195, 291
+  index: -1
+chef/Patns
+  rotate: true
+  xy: 1, 330
+  size: 143, 285
+  orig: 654, 1203
+  offset: 258, 63
+  index: -1
+chef/R_arm
+  rotate: true
+  xy: 212, 474
+  size: 99, 206
+  orig: 654, 1203
+  offset: 317, 293
+  index: -1
+chef/Shirt
+  rotate: true
+  xy: 287, 320
+  size: 153, 286
+  orig: 654, 1203
+  offset: 227, 239
+  index: -1
+
+skeleton7.png
+size: 641,641
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chef_hat/Hat
+  rotate: false
+  xy: 1, 1
+  size: 527, 314
+  orig: 654, 1203
+  offset: 63, 764
+  index: -1
+chef_hat/Hat_outline
+  rotate: false
+  xy: 1, 316
+  size: 536, 324
+  orig: 654, 1203
+  offset: 58, 759
+  index: -1
+
+skeleton8.png
+size: 711,711
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circus/Cloak_behind
+  rotate: false
+  xy: 147, 63
+  size: 207, 243
+  orig: 654, 1203
+  offset: 203, 114
+  index: -1
+circus/Cloak_behind_outline
+  rotate: true
+  xy: 207, 307
+  size: 216, 253
+  orig: 654, 1203
+  offset: 199, 109
+  index: -1
+circus/Hat_behind
+  rotate: true
+  xy: 563, 166
+  size: 357, 52
+  orig: 654, 1203
+  offset: 149, 811
+  index: -1
+circus/Hat_behind_outline
+  rotate: false
+  xy: 147, 1
+  size: 367, 61
+  orig: 654, 1203
+  offset: 144, 807
+  index: -1
+circus/L_arm
+  rotate: false
+  xy: 616, 348
+  size: 76, 189
+  orig: 654, 1203
+  offset: 203, 302
+  index: -1
+circus/L_arm_outline
+  rotate: false
+  xy: 452, 107
+  size: 85, 199
+  orig: 654, 1203
+  offset: 199, 297
+  index: -1
+circus/L_cloak
+  rotate: true
+  xy: 207, 621
+  size: 89, 402
+  orig: 654, 1203
+  offset: 202, 107
+  index: -1
+circus/L_cloak_outline
+  rotate: false
+  xy: 1, 298
+  size: 99, 412
+  orig: 654, 1203
+  offset: 197, 102
+  index: -1
+circus/L_shoe
+  rotate: true
+  xy: 688, 663
+  size: 47, 22
+  orig: 654, 1203
+  offset: 248, 28
+  index: -1
+circus/Mustache
+  rotate: false
+  xy: 515, 15
+  size: 175, 56
+  orig: 654, 1203
+  offset: 215, 610
+  index: -1
+circus/Pants
+  rotate: false
+  xy: 1, 8
+  size: 145, 289
+  orig: 654, 1203
+  offset: 257, 62
+  index: -1
+circus/R_arm
+  rotate: false
+  xy: 616, 159
+  size: 86, 188
+  orig: 654, 1203
+  offset: 329, 307
+  index: -1
+circus/R_arm_outline
+  rotate: false
+  xy: 355, 109
+  size: 96, 197
+  orig: 654, 1203
+  offset: 324, 302
+  index: -1
+circus/R_cloak
+  rotate: true
+  xy: 207, 524
+  size: 96, 387
+  orig: 654, 1203
+  offset: 316, 129
+  index: -1
+circus/R_cloak_outline
+  rotate: false
+  xy: 101, 314
+  size: 105, 396
+  orig: 654, 1203
+  offset: 311, 125
+  index: -1
+circus/R_shoe
+  rotate: true
+  xy: 688, 615
+  size: 47, 20
+  orig: 654, 1203
+  offset: 369, 32
+  index: -1
+circus/Shirt
+  rotate: false
+  xy: 610, 538
+  size: 77, 172
+  orig: 654, 1203
+  offset: 263, 331
+  index: -1
+circus/Shirt_outline
+  rotate: false
+  xy: 461, 325
+  size: 101, 198
+  orig: 654, 1203
+  offset: 252, 318
+  index: -1
+circus/Tie_upper
+  rotate: false
+  xy: 445, 72
+  size: 80, 34
+  orig: 654, 1203
+  offset: 265, 491
+  index: -1
+circus/Tie_upper_outline
+  rotate: false
+  xy: 355, 63
+  size: 89, 43
+  orig: 654, 1203
+  offset: 261, 486
+  index: -1
+
+skeleton9.png
+size: 470,470
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circus_hat/Hat
+  rotate: false
+  xy: 1, 1
+  size: 358, 229
+  orig: 654, 1203
+  offset: 149, 826
+  index: -1
+circus_hat/Hat_outline
+  rotate: false
+  xy: 1, 231
+  size: 367, 238
+  orig: 654, 1203
+  offset: 144, 822
+  index: -1
+
+skeleton10.png
+size: 648,648
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clown/Beard
+  rotate: true
+  xy: 560, 241
+  size: 131, 83
+  orig: 654, 1203
+  offset: 241, 575
+  index: -1
+clown/Dress
+  rotate: false
+  xy: 208, 183
+  size: 197, 464
+  orig: 654, 1203
+  offset: 231, 54
+  index: -1
+clown/Dress_outline
+  rotate: false
+  xy: 1, 174
+  size: 206, 473
+  orig: 654, 1203
+  offset: 227, 50
+  index: -1
+clown/L_arm
+  rotate: true
+  xy: 406, 519
+  size: 128, 241
+  orig: 654, 1203
+  offset: 170, 262
+  index: -1
+clown/L_arm_outline
+  rotate: true
+  xy: 308, 44
+  size: 138, 251
+  orig: 654, 1203
+  offset: 165, 257
+  index: -1
+clown/L_shoe
+  rotate: true
+  xy: 560, 15
+  size: 89, 59
+  orig: 654, 1203
+  offset: 230, 25
+  index: -1
+clown/Mustache
+  rotate: true
+  xy: 406, 264
+  size: 108, 91
+  orig: 654, 1203
+  offset: 231, 619
+  index: -1
+clown/R_arm
+  rotate: true
+  xy: 406, 373
+  size: 145, 238
+  orig: 654, 1203
+  offset: 313, 267
+  index: -1
+clown/R_arm_outline
+  rotate: true
+  xy: 1, 19
+  size: 154, 247
+  orig: 654, 1203
+  offset: 308, 263
+  index: -1
+clown/R_shoe
+  rotate: true
+  xy: 498, 283
+  size: 89, 58
+  orig: 654, 1203
+  offset: 357, 31
+  index: -1
+clown/Shirt_label
+  rotate: true
+  xy: 560, 105
+  size: 63, 73
+  orig: 654, 1203
+  offset: 275, 457
+  index: -1
+clown/Shirt_label_outline
+  rotate: true
+  xy: 560, 169
+  size: 71, 81
+  orig: 654, 1203
+  offset: 271, 453
+  index: -1
+clown/Tie_upper
+  rotate: false
+  xy: 406, 190
+  size: 137, 50
+  orig: 654, 1203
+  offset: 241, 473
+  index: -1
+clown/Tie_upper_outline
+  rotate: true
+  xy: 249, 36
+  size: 146, 58
+  orig: 654, 1203
+  offset: 236, 468
+  index: -1
+
+skeleton11.png
+size: 749,749
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clown_hat/Hat
+  rotate: false
+  xy: 1, 1
+  size: 538, 369
+  orig: 654, 1203
+  offset: 47, 651
+  index: -1
+clown_hat/Hat_outline
+  rotate: false
+  xy: 1, 371
+  size: 547, 377
+  orig: 654, 1203
+  offset: 43, 647
+  index: -1
+
+skeleton12.png
+size: 473,473
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cowboy/L_arm
+  rotate: true
+  xy: 252, 173
+  size: 94, 211
+  orig: 654, 1203
+  offset: 187, 286
+  index: -1
+cowboy/L_arm_outline
+  rotate: true
+  xy: 252, 370
+  size: 102, 220
+  orig: 654, 1203
+  offset: 183, 282
+  index: -1
+cowboy/L_shoe
+  rotate: true
+  xy: 292, 114
+  size: 58, 152
+  orig: 654, 1203
+  offset: 253, 24
+  index: -1
+cowboy/Pants
+  rotate: false
+  xy: 1, 179
+  size: 138, 293
+  orig: 654, 1203
+  offset: 259, 53
+  index: -1
+cowboy/R_arm
+  rotate: true
+  xy: 252, 268
+  size: 101, 209
+  orig: 654, 1203
+  offset: 323, 292
+  index: -1
+cowboy/R_arm_outline
+  rotate: false
+  xy: 140, 254
+  size: 111, 218
+  orig: 654, 1203
+  offset: 318, 288
+  index: -1
+cowboy/R_shoe
+  rotate: false
+  xy: 209, 25
+  size: 82, 147
+  orig: 654, 1203
+  offset: 342, 32
+  index: -1
+cowboy/Shirt
+  rotate: false
+  xy: 109, 15
+  size: 99, 163
+  orig: 654, 1203
+  offset: 259, 338
+  index: -1
+cowboy/Shirt_label
+  rotate: false
+  xy: 140, 192
+  size: 104, 61
+  orig: 654, 1203
+  offset: 273, 471
+  index: -1
+cowboy/Shirt_label_outline
+  rotate: false
+  xy: 292, 44
+  size: 113, 69
+  orig: 654, 1203
+  offset: 269, 467
+  index: -1
+cowboy/Shirt_outline
+  rotate: false
+  xy: 1, 5
+  size: 107, 173
+  orig: 654, 1203
+  offset: 255, 333
+  index: -1
+
+skeleton13.png
+size: 609,609
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cowboy_hat/Hat
+  rotate: false
+  xy: 1, 1
+  size: 561, 299
+  orig: 654, 1203
+  offset: 39, 744
+  index: -1
+cowboy_hat/Hat_outline
+  rotate: false
+  xy: 1, 301
+  size: 568, 307
+  orig: 654, 1203
+  offset: 36, 740
+  index: -1
+
+skeleton14.png
+size: 645,645
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+detective/Cloak_behind
+  rotate: false
+  xy: 390, 264
+  size: 151, 380
+  orig: 654, 1203
+  offset: 229, 119
+  index: -1
+detective/Cloak_behind_outline
+  rotate: true
+  xy: 1, 75
+  size: 159, 388
+  orig: 654, 1203
+  offset: 225, 115
+  index: -1
+detective/L_arm
+  rotate: true
+  xy: 411, 13
+  size: 77, 194
+  orig: 654, 1203
+  offset: 218, 310
+  index: -1
+detective/L_arm_outline
+  rotate: true
+  xy: 390, 91
+  size: 86, 204
+  orig: 654, 1203
+  offset: 213, 305
+  index: -1
+detective/L_cloak
+  rotate: false
+  xy: 158, 244
+  size: 63, 400
+  orig: 654, 1203
+  offset: 228, 122
+  index: -1
+detective/L_cloak_outline
+  rotate: true
+  xy: 1, 1
+  size: 73, 409
+  orig: 654, 1203
+  offset: 223, 118
+  index: -1
+detective/L_shirt_wrist
+  rotate: false
+  xy: 606, 13
+  size: 32, 35
+  orig: 654, 1203
+  offset: 219, 305
+  index: -1
+detective/L_shirt_wrist_outline
+  rotate: false
+  xy: 595, 133
+  size: 40, 44
+  orig: 654, 1203
+  offset: 215, 300
+  index: -1
+detective/L_shoe copy
+  rotate: false
+  xy: 595, 111
+  size: 47, 21
+  orig: 654, 1203
+  offset: 248, 28
+  index: -1
+detective/Pants
+  rotate: false
+  xy: 222, 359
+  size: 143, 285
+  orig: 654, 1203
+  offset: 258, 64
+  index: -1
+detective/R_arm
+  rotate: false
+  xy: 542, 448
+  size: 75, 196
+  orig: 654, 1203
+  offset: 322, 310
+  index: -1
+detective/R_arm_outline
+  rotate: true
+  xy: 390, 178
+  size: 85, 205
+  orig: 654, 1203
+  offset: 317, 306
+  index: -1
+detective/R_cloak
+  rotate: false
+  xy: 84, 244
+  size: 73, 400
+  orig: 654, 1203
+  offset: 309, 129
+  index: -1
+detective/R_cloak_outline
+  rotate: false
+  xy: 1, 235
+  size: 82, 409
+  orig: 654, 1203
+  offset: 305, 120
+  index: -1
+detective/R_shirt_wrist
+  rotate: false
+  xy: 542, 380
+  size: 27, 31
+  orig: 654, 1203
+  offset: 366, 309
+  index: -1
+detective/R_shirt_wrist_outline
+  rotate: false
+  xy: 606, 49
+  size: 36, 41
+  orig: 654, 1203
+  offset: 361, 304
+  index: -1
+detective/R_shoe copy
+  rotate: false
+  xy: 595, 91
+  size: 44, 19
+  orig: 654, 1203
+  offset: 372, 32
+  index: -1
+detective/Shirt
+  rotate: true
+  xy: 222, 281
+  size: 77, 165
+  orig: 654, 1203
+  offset: 262, 338
+  index: -1
+detective/Shirt_label
+  rotate: false
+  xy: 337, 252
+  size: 48, 28
+  orig: 654, 1203
+  offset: 281, 486
+  index: -1
+detective/Tie_lower
+  rotate: true
+  xy: 222, 240
+  size: 40, 114
+  orig: 654, 1203
+  offset: 281, 364
+  index: -1
+detective/Tie_upper
+  rotate: false
+  xy: 542, 412
+  size: 27, 35
+  orig: 654, 1203
+  offset: 289, 473
+  index: -1
+
+skeleton15.png
+size: 503,503
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+detective_hat/Hat
+  rotate: false
+  xy: 1, 1
+  size: 477, 245
+  orig: 654, 1203
+  offset: 79, 762
+  index: -1
+detective_hat/Hat_outline
+  rotate: false
+  xy: 1, 247
+  size: 486, 255
+  orig: 654, 1203
+  offset: 74, 757
+  index: -1
+
+skeleton16.png
+size: 530,530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+disco/Beard
+  rotate: false
+  xy: 367, 308
+  size: 39, 23
+  orig: 654, 1203
+  offset: 285, 568
+  index: -1
+disco/Glasses
+  rotate: false
+  xy: 1, 3
+  size: 278, 86
+  orig: 654, 1203
+  offset: 198, 689
+  index: -1
+disco/L_arm
+  rotate: true
+  xy: 280, 1
+  size: 97, 215
+  orig: 654, 1203
+  offset: 201, 289
+  index: -1
+disco/L_arm_outline
+  rotate: false
+  xy: 159, 304
+  size: 107, 225
+  orig: 654, 1203
+  offset: 196, 284
+  index: -1
+disco/L_shoe
+  rotate: false
+  xy: 317, 308
+  size: 49, 23
+  orig: 654, 1203
+  offset: 247, 29
+  index: -1
+disco/Mustache
+  rotate: true
+  xy: 496, 425
+  size: 104, 22
+  orig: 654, 1203
+  offset: 253, 631
+  index: -1
+disco/Pants
+  rotate: false
+  xy: 1, 201
+  size: 157, 328
+  orig: 654, 1203
+  offset: 257, 55
+  index: -1
+disco/R_arm
+  rotate: true
+  xy: 223, 99
+  size: 102, 211
+  orig: 654, 1203
+  offset: 316, 295
+  index: -1
+disco/R_arm_outline
+  rotate: true
+  xy: 1, 90
+  size: 110, 221
+  orig: 654, 1203
+  offset: 312, 290
+  index: -1
+disco/R_shoe
+  rotate: false
+  xy: 267, 307
+  size: 49, 24
+  orig: 654, 1203
+  offset: 370, 32
+  index: -1
+disco/Shirt
+  rotate: true
+  xy: 267, 332
+  size: 92, 216
+  orig: 654, 1203
+  offset: 262, 320
+  index: -1
+disco/Shirt_outline
+  rotate: true
+  xy: 159, 202
+  size: 101, 226
+  orig: 654, 1203
+  offset: 257, 315
+  index: -1
+disco/Skin_body
+  rotate: true
+  xy: 267, 446
+  size: 83, 211
+  orig: 654, 1203
+  offset: 262, 340
+  index: -1
+
+skeleton17.png
+size: 803,803
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+disco_hat/Hat
+  rotate: false
+  xy: 1, 26
+  size: 482, 383
+  orig: 654, 1203
+  offset: 87, 671
+  index: -1
+disco_hat/Hat_behind
+  rotate: true
+  xy: 484, 1
+  size: 396, 238
+  orig: 654, 1203
+  offset: 130, 583
+  index: -1
+disco_hat/Hat_behind_outline
+  rotate: true
+  xy: 492, 398
+  size: 404, 246
+  orig: 654, 1203
+  offset: 126, 579
+  index: -1
+disco_hat/Hat_outline
+  rotate: false
+  xy: 1, 410
+  size: 490, 392
+  orig: 654, 1203
+  offset: 83, 666
+  index: -1
+
+skeleton18.png
+size: 569,569
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+doctor/L_arm
+  rotate: false
+  xy: 179, 63
+  size: 77, 212
+  orig: 654, 1203
+  offset: 212, 289
+  index: -1
+doctor/L_arm_outline
+  rotate: false
+  xy: 1, 45
+  size: 87, 221
+  orig: 654, 1203
+  offset: 207, 285
+  index: -1
+doctor/L_bp_line
+  rotate: true
+  xy: 393, 536
+  size: 32, 171
+  orig: 654, 1203
+  offset: 265, 342
+  index: -1
+doctor/L_bp_line_outline
+  rotate: true
+  xy: 1, 2
+  size: 42, 181
+  orig: 654, 1203
+  offset: 260, 337
+  index: -1
+doctor/L_cloak
+  rotate: false
+  xy: 171, 276
+  size: 74, 292
+  orig: 654, 1203
+  offset: 231, 224
+  index: -1
+doctor/L_cloak_outline
+  rotate: false
+  xy: 1, 267
+  size: 84, 301
+  orig: 654, 1203
+  offset: 226, 220
+  index: -1
+doctor/L_shoe
+  rotate: true
+  xy: 531, 255
+  size: 49, 24
+  orig: 654, 1203
+  offset: 246, 26
+  index: -1
+doctor/Pants
+  rotate: false
+  xy: 246, 283
+  size: 146, 285
+  orig: 654, 1203
+  offset: 257, 62
+  index: -1
+doctor/R_Arm
+  rotate: false
+  xy: 257, 77
+  size: 79, 205
+  orig: 654, 1203
+  offset: 326, 301
+  index: -1
+doctor/R_arm_outline
+  rotate: false
+  xy: 89, 57
+  size: 89, 215
+  orig: 654, 1203
+  offset: 321, 296
+  index: -1
+doctor/R_bp_line
+  rotate: false
+  xy: 393, 304
+  size: 51, 194
+  orig: 654, 1203
+  offset: 313, 324
+  index: -1
+doctor/R_bp_line_outline
+  rotate: true
+  xy: 183, 1
+  size: 61, 204
+  orig: 654, 1203
+  offset: 308, 319
+  index: -1
+doctor/R_cloak
+  rotate: false
+  xy: 456, 19
+  size: 74, 285
+  orig: 654, 1203
+  offset: 309, 233
+  index: -1
+doctor/R_cloak_outline
+  rotate: false
+  xy: 86, 273
+  size: 84, 295
+  orig: 654, 1203
+  offset: 304, 228
+  index: -1
+doctor/R_shoe
+  rotate: true
+  xy: 531, 205
+  size: 49, 22
+  orig: 654, 1203
+  offset: 369, 30
+  index: -1
+doctor/Shirt
+  rotate: false
+  xy: 456, 305
+  size: 94, 193
+  orig: 654, 1203
+  offset: 255, 322
+  index: -1
+doctor/Shirt_label
+  rotate: true
+  xy: 427, 13
+  size: 66, 28
+  orig: 654, 1203
+  offset: 273, 491
+  index: -1
+doctor/Shirt_label_outline
+  rotate: true
+  xy: 388, 3
+  size: 76, 38
+  orig: 654, 1203
+  offset: 268, 486
+  index: -1
+doctor/Shirt_outline
+  rotate: false
+  xy: 337, 80
+  size: 104, 202
+  orig: 654, 1203
+  offset: 250, 317
+  index: -1
+doctor/Tie_lower
+  rotate: true
+  xy: 393, 499
+  size: 36, 164
+  orig: 654, 1203
+  offset: 285, 345
+  index: -1
+
+skeleton19.png
+size: 744,744
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+egyptian/Beard
+  rotate: true
+  xy: 1, 1
+  size: 274, 252
+  orig: 654, 1203
+  offset: 185, 488
+  index: -1
+egyptian/L_bracelet
+  rotate: true
+  xy: 220, 357
+  size: 38, 47
+  orig: 654, 1203
+  offset: 218, 303
+  index: -1
+egyptian/L_bracelet_outline
+  rotate: false
+  xy: 220, 396
+  size: 46, 56
+  orig: 654, 1203
+  offset: 214, 298
+  index: -1
+egyptian/L_eye_shadow
+  rotate: false
+  xy: 266, 453
+  size: 21, 20
+  orig: 654, 1203
+  offset: 197, 718
+  index: -1
+egyptian/L_shoe
+  rotate: false
+  xy: 214, 282
+  size: 42, 69
+  orig: 654, 1203
+  offset: 257, 29
+  index: -1
+egyptian/Pants
+  rotate: false
+  xy: 161, 562
+  size: 129, 181
+  orig: 654, 1203
+  offset: 249, 175
+  index: -1
+egyptian/R_bracelet
+  rotate: false
+  xy: 230, 467
+  size: 35, 42
+  orig: 654, 1203
+  offset: 362, 303
+  index: -1
+egyptian/R_bracelet_outline
+  rotate: false
+  xy: 230, 510
+  size: 45, 51
+  orig: 654, 1203
+  offset: 357, 299
+  index: -1
+egyptian/R_eye_shadow
+  rotate: true
+  xy: 266, 474
+  size: 35, 21
+  orig: 654, 1203
+  offset: 392, 719
+  index: -1
+egyptian/R_shoe
+  rotate: false
+  xy: 161, 281
+  size: 52, 70
+  orig: 654, 1203
+  offset: 368, 33
+  index: -1
+egyptian/Shirt_label
+  rotate: true
+  xy: 161, 352
+  size: 100, 58
+  orig: 654, 1203
+  offset: 253, 451
+  index: -1
+egyptian/Shirt_label_outline
+  rotate: true
+  xy: 161, 453
+  size: 108, 68
+  orig: 654, 1203
+  offset: 249, 446
+  index: -1
+egyptian/Skin_full
+  rotate: false
+  xy: 1, 276
+  size: 159, 467
+  orig: 654, 1203
+  offset: 229, 73
+  index: -1
+
+skeleton20.png
+size: 761,761
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+egyptian_hat/Hat
+  rotate: false
+  xy: 1, 1
+  size: 407, 374
+  orig: 654, 1203
+  offset: 149, 695
+  index: -1
+egyptian_hat/Hat_outline
+  rotate: false
+  xy: 1, 376
+  size: 416, 384
+  orig: 654, 1203
+  offset: 144, 690
+  index: -1
+
+skeleton21.png
+size: 324,324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fairy/L_arm
+  rotate: true
+  xy: 204, 213
+  size: 45, 106
+  orig: 50, 113
+  offset: 1, 1
+  index: -1
+fairy/L_arm_outline
+  rotate: false
+  xy: 1, 10
+  size: 49, 110
+  orig: 53, 114
+  offset: 2, 1
+  index: -1
+fairy/L_jacket
+  rotate: true
+  xy: 204, 142
+  size: 24, 90
+  orig: 35, 101
+  offset: 5, 3
+  index: -1
+fairy/L_jacket_outline
+  rotate: false
+  xy: 101, 16
+  size: 28, 95
+  orig: 42, 105
+  offset: 6, 4
+  index: -1
+fairy/L_shoe
+  rotate: false
+  xy: 277, 79
+  size: 24, 62
+  orig: 35, 73
+  offset: 4, 4
+  index: -1
+fairy/L_shoe_outline
+  rotate: true
+  xy: 70, 210
+  size: 29, 67
+  orig: 37, 76
+  offset: 3, 5
+  index: -1
+fairy/L_wing
+  rotate: true
+  xy: 136, 73
+  size: 60, 100
+  orig: 69, 111
+  offset: 4, 2
+  index: -1
+fairy/L_wing_outline
+  rotate: false
+  xy: 138, 134
+  size: 65, 105
+  orig: 82, 113
+  offset: 7, 3
+  index: -1
+fairy/Pants_behind
+  rotate: true
+  xy: 171, 259
+  size: 64, 109
+  orig: 72, 121
+  offset: 7, 5
+  index: -1
+fairy/Pants_outline
+  rotate: false
+  xy: 1, 210
+  size: 68, 113
+  orig: 80, 125
+  offset: 6, 4
+  index: -1
+fairy/R_arm
+  rotate: true
+  xy: 204, 167
+  size: 45, 103
+  orig: 50, 106
+  offset: 5, 2
+  index: -1
+fairy/R_arm_outline
+  rotate: false
+  xy: 51, 13
+  size: 49, 107
+  orig: 55, 114
+  offset: 3, 2
+  index: -1
+fairy/R_jacket
+  rotate: true
+  xy: 130, 49
+  size: 23, 92
+  orig: 35, 96
+  offset: 6, 3
+  index: -1
+fairy/R_jacket_outline
+  rotate: false
+  xy: 107, 112
+  size: 28, 97
+  orig: 44, 106
+  offset: 8, 4
+  index: -1
+fairy/R_shoe
+  rotate: false
+  xy: 281, 259
+  size: 38, 64
+  orig: 42, 73
+  offset: 1, 3
+  index: -1
+fairy/R_shoe_outline
+  rotate: true
+  xy: 130, 5
+  size: 43, 69
+  orig: 53, 75
+  offset: 7, 2
+  index: -1
+fairy/R_wing
+  rotate: true
+  xy: 70, 240
+  size: 83, 100
+  orig: 88, 108
+  offset: 3, 5
+  index: -1
+fairy/R_wing_outline
+  rotate: true
+  xy: 1, 121
+  size: 88, 105
+  orig: 100, 116
+  offset: 8, 2
+  index: -1
+fairy/Shirt
+  rotate: true
+  xy: 200, 1
+  size: 38, 81
+  orig: 46, 85
+  offset: 2, 2
+  index: -1
+fairy/Skin_body
+  rotate: false
+  xy: 237, 40
+  size: 39, 101
+  orig: 45, 108
+  offset: 3, 4
+  index: -1
+
+skeleton22.png
+size: 609,609
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+firefighter/L_arm
+  rotate: false
+  xy: 412, 191
+  size: 77, 206
+  orig: 654, 1203
+  offset: 207, 286
+  index: -1
+firefighter/L_arm_outline
+  rotate: false
+  xy: 514, 394
+  size: 86, 214
+  orig: 654, 1203
+  offset: 202, 282
+  index: -1
+firefighter/L_hand
+  rotate: false
+  xy: 91, 1
+  size: 88, 58
+  orig: 654, 1203
+  offset: 145, 252
+  index: -1
+firefighter/L_hand_outline
+  rotate: false
+  xy: 260, 194
+  size: 98, 68
+  orig: 654, 1203
+  offset: 140, 247
+  index: -1
+firefighter/L_hand_point
+  rotate: false
+  xy: 486, 27
+  size: 104, 152
+  orig: 104, 152
+  offset: 0, 0
+  index: -1
+firefighter/L_hand_point_back
+  rotate: true
+  xy: 155, 86
+  size: 104, 158
+  orig: 104, 158
+  offset: 0, 0
+  index: -1
+firefighter/L_hand_point_outline
+  rotate: true
+  xy: 155, 349
+  size: 115, 169
+  orig: 115, 169
+  offset: 0, 0
+  index: -1
+firefighter/L_shoe
+  rotate: true
+  xy: 490, 350
+  size: 47, 21
+  orig: 654, 1203
+  offset: 248, 28
+  index: -1
+firefighter/Pants
+  rotate: false
+  xy: 1, 331
+  size: 153, 277
+  orig: 654, 1203
+  offset: 255, 66
+  index: -1
+firefighter/R_Arm
+  rotate: false
+  xy: 325, 263
+  size: 86, 201
+  orig: 654, 1203
+  offset: 326, 295
+  index: -1
+firefighter/R_arm_outline
+  rotate: false
+  xy: 417, 398
+  size: 96, 210
+  orig: 654, 1203
+  offset: 321, 291
+  index: -1
+firefighter/R_hand
+  rotate: false
+  xy: 1, 1
+  size: 89, 58
+  orig: 654, 1203
+  offset: 380, 264
+  index: -1
+firefighter/R_hand_outline
+  rotate: true
+  xy: 314, 95
+  size: 98, 66
+  orig: 654, 1203
+  offset: 375, 260
+  index: -1
+firefighter/R_hand_point
+  rotate: false
+  xy: 381, 35
+  size: 104, 155
+  orig: 104, 155
+  offset: 0, 0
+  index: -1
+firefighter/R_hand_point_back
+  rotate: false
+  xy: 155, 191
+  size: 104, 157
+  orig: 104, 157
+  offset: 0, 0
+  index: -1
+firefighter/R_hand_point_outline
+  rotate: false
+  xy: 490, 180
+  size: 115, 169
+  orig: 115, 169
+  offset: 0, 0
+  index: -1
+firefighter/R_shoe
+  rotate: false
+  xy: 512, 375
+  size: 45, 18
+  orig: 654, 1203
+  offset: 372, 33
+  index: -1
+firefighter/Shirt
+  rotate: true
+  xy: 155, 465
+  size: 143, 261
+  orig: 654, 1203
+  offset: 235, 266
+  index: -1
+firefighter/Shirt_outline
+  rotate: false
+  xy: 1, 60
+  size: 153, 270
+  orig: 654, 1203
+  offset: 230, 261
+  index: -1
+
+skeleton23.png
+size: 876,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+firefighter_hat/Hat
+  rotate: false
+  xy: 1, 1
+  size: 514, 432
+  orig: 654, 1203
+  offset: 59, 616
+  index: -1
+firefighter_hat/Hat_outline
+  rotate: false
+  xy: 1, 434
+  size: 523, 441
+  orig: 654, 1203
+  offset: 54, 612
+  index: -1
+
+skeleton24.png
+size: 675,675
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+greek/Belt
+  rotate: false
+  xy: 342, 193
+  size: 89, 34
+  orig: 654, 1203
+  offset: 258, 348
+  index: -1
+greek/Belt_outline
+  rotate: false
+  xy: 342, 228
+  size: 99, 46
+  orig: 654, 1203
+  offset: 253, 343
+  index: -1
+greek/Dress
+  rotate: false
+  xy: 342, 275
+  size: 162, 399
+  orig: 654, 1203
+  offset: 228, 108
+  index: -1
+greek/Dress_outline
+  rotate: true
+  xy: 1, 19
+  size: 170, 409
+  orig: 654, 1203
+  offset: 224, 103
+  index: -1
+greek/L_shoe
+  rotate: false
+  xy: 1, 1
+  size: 50, 17
+  orig: 654, 1203
+  offset: 251, 29
+  index: -1
+greek/R_shoe
+  rotate: false
+  xy: 52, 2
+  size: 49, 16
+  orig: 654, 1203
+  offset: 371, 34
+  index: -1
+greek/Skin_full
+  rotate: false
+  xy: 180, 208
+  size: 161, 466
+  orig: 654, 1203
+  offset: 227, 74
+  index: -1
+greek/Skin_full_outline
+  rotate: false
+  xy: 1, 190
+  size: 178, 484
+  orig: 654, 1203
+  offset: 219, 65
+  index: -1
+
+skeleton25.png
+size: 354,354
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+greek_hat/Hat
+  rotate: false
+  xy: 1, 67
+  size: 342, 138
+  orig: 654, 1203
+  offset: 155, 750
+  index: -1
+greek_hat/Hat_outline
+  rotate: false
+  xy: 1, 206
+  size: 352, 147
+  orig: 654, 1203
+  offset: 150, 745
+  index: -1
+
+skeleton26.png
+size: 329,329
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lumberjack/Beard
+  rotate: false
+  xy: 1, 102
+  size: 138, 110
+  orig: 153, 119
+  offset: 4, 4
+  index: -1
+lumberjack/Beard_outline
+  rotate: false
+  xy: 1, 213
+  size: 143, 115
+  orig: 159, 129
+  offset: 5, 2
+  index: -1
+lumberjack/L_arm
+  rotate: false
+  xy: 211, 16
+  size: 40, 106
+  orig: 63, 111
+  offset: 13, 1
+  index: -1
+lumberjack/L_arm_outline
+  rotate: true
+  xy: 56, 8
+  size: 45, 111
+  orig: 60, 121
+  offset: 5, 2
+  index: -1
+lumberjack/L_collar
+  rotate: true
+  xy: 246, 124
+  size: 14, 28
+  orig: 21, 34
+  offset: 2, 0
+  index: -1
+lumberjack/L_collar_outline
+  rotate: false
+  xy: 293, 160
+  size: 19, 33
+  orig: 31, 43
+  offset: 7, 5
+  index: -1
+lumberjack/L_shoe
+  rotate: false
+  xy: 246, 139
+  size: 26, 43
+  orig: 41, 48
+  offset: 4, 4
+  index: -1
+lumberjack/Pants_behind
+  rotate: true
+  xy: 145, 183
+  size: 69, 125
+  orig: 77, 142
+  offset: 4, 6
+  index: -1
+lumberjack/Pants_outline
+  rotate: true
+  xy: 145, 253
+  size: 75, 130
+  orig: 84, 137
+  offset: 5, 2
+  index: -1
+lumberjack/R_arm
+  rotate: false
+  xy: 168, 17
+  size: 42, 105
+  orig: 51, 112
+  offset: 6, 2
+  index: -1
+lumberjack/R_arm_outline
+  rotate: true
+  xy: 56, 54
+  size: 47, 111
+  orig: 63, 115
+  offset: 10, 2
+  index: -1
+lumberjack/R_collar
+  rotate: false
+  xy: 252, 92
+  size: 13, 31
+  orig: 24, 39
+  offset: 5, 8
+  index: -1
+lumberjack/R_collar_outline
+  rotate: false
+  xy: 273, 157
+  size: 19, 36
+  orig: 35, 45
+  offset: 5, 3
+  index: -1
+lumberjack/R_shoe
+  rotate: true
+  xy: 271, 194
+  size: 32, 45
+  orig: 42, 51
+  offset: 3, 3
+  index: -1
+lumberjack/Shirt
+  rotate: false
+  xy: 1, 1
+  size: 54, 100
+  orig: 71, 109
+  offset: 8, 4
+  index: -1
+lumberjack/Shirt_outline
+  rotate: true
+  xy: 140, 123
+  size: 59, 105
+  orig: 75, 115
+  offset: 5, 5
+  index: -1
+lumberjack/Skin_body
+  rotate: false
+  xy: 276, 227
+  size: 39, 101
+  orig: 63, 115
+  offset: 11, 5
+  index: -1
+
+skeleton27.png
+size: 232,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lumberjack_hat/Hat
+  rotate: false
+  xy: 1, 1
+  size: 171, 112
+  orig: 182, 123
+  offset: 5, 3
+  index: -1
+lumberjack_hat/Hat_outline
+  rotate: false
+  xy: 1, 114
+  size: 177, 117
+  orig: 182, 125
+  offset: 3, 4
+  index: -1
+
+skeleton28.png
+size: 733,733
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mad_scientist/Cloak_behind
+  rotate: true
+  xy: 1, 32
+  size: 250, 304
+  orig: 654, 1203
+  offset: 199, 126
+  index: -1
+mad_scientist/Glasses
+  rotate: true
+  xy: 192, 528
+  size: 204, 86
+  orig: 654, 1203
+  offset: 206, 682
+  index: -1
+mad_scientist/L_arm
+  rotate: false
+  xy: 192, 319
+  size: 76, 208
+  orig: 654, 1203
+  offset: 208, 297
+  index: -1
+mad_scientist/L_arm_outline
+  rotate: true
+  xy: 503, 70
+  size: 85, 217
+  orig: 654, 1203
+  offset: 204, 292
+  index: -1
+mad_scientist/L_cloak
+  rotate: false
+  xy: 101, 292
+  size: 90, 440
+  orig: 654, 1203
+  offset: 191, 83
+  index: -1
+mad_scientist/L_cloak_outline
+  rotate: false
+  xy: 1, 283
+  size: 99, 449
+  orig: 654, 1203
+  offset: 186, 78
+  index: -1
+mad_scientist/L_shoe
+  rotate: false
+  xy: 636, 10
+  size: 51, 25
+  orig: 654, 1203
+  offset: 246, 28
+  index: -1
+mad_scientist/Pants
+  rotate: false
+  xy: 456, 434
+  size: 158, 298
+  orig: 654, 1203
+  offset: 253, 60
+  index: -1
+mad_scientist/R_arm
+  rotate: false
+  xy: 643, 310
+  size: 88, 206
+  orig: 654, 1203
+  offset: 327, 298
+  index: -1
+mad_scientist/R_arm_outline
+  rotate: false
+  xy: 615, 517
+  size: 97, 215
+  orig: 654, 1203
+  offset: 322, 294
+  index: -1
+mad_scientist/R_cloak
+  rotate: true
+  xy: 306, 156
+  size: 140, 425
+  orig: 654, 1203
+  offset: 324, 107
+  index: -1
+mad_scientist/R_cloak_outline
+  rotate: false
+  xy: 306, 297
+  size: 149, 435
+  orig: 654, 1203
+  offset: 319, 102
+  index: -1
+mad_scientist/R_shoe
+  rotate: false
+  xy: 306, 21
+  size: 52, 24
+  orig: 654, 1203
+  offset: 370, 33
+  index: -1
+mad_scientist/Shirt
+  rotate: true
+  xy: 456, 333
+  size: 100, 186
+  orig: 654, 1203
+  offset: 253, 321
+  index: -1
+mad_scientist/Shirt_label
+  rotate: false
+  xy: 574, 1
+  size: 61, 34
+  orig: 654, 1203
+  offset: 277, 496
+  index: -1
+mad_scientist/Shirt_label_outline
+  rotate: false
+  xy: 503, 25
+  size: 70, 44
+  orig: 654, 1203
+  offset: 273, 491
+  index: -1
+mad_scientist/Shirt_outline
+  rotate: true
+  xy: 306, 46
+  size: 109, 196
+  orig: 654, 1203
+  offset: 248, 316
+  index: -1
+mad_scientist/Tie_lower
+  rotate: true
+  xy: 574, 36
+  size: 33, 154
+  orig: 654, 1203
+  offset: 291, 355
+  index: -1
+
+skeleton29.png
+size: 684,684
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mad_scientist_hat/Hat
+  rotate: false
+  xy: 1, 1
+  size: 525, 335
+  orig: 654, 1203
+  offset: 64, 725
+  index: -1
+mad_scientist_hat/Hat_outline
+  rotate: false
+  xy: 1, 337
+  size: 535, 346
+  orig: 654, 1203
+  offset: 58, 719
+  index: -1
+
+skeleton30.png
+size: 681,681
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+magician/L_arm
+  rotate: false
+  xy: 338, 11
+  size: 65, 187
+  orig: 654, 1203
+  offset: 215, 298
+  index: -1
+magician/L_arm_outline
+  rotate: false
+  xy: 406, 483
+  size: 75, 197
+  orig: 654, 1203
+  offset: 210, 293
+  index: -1
+magician/L_cloak
+  rotate: false
+  xy: 355, 480
+  size: 50, 200
+  orig: 654, 1203
+  offset: 244, 310
+  index: -1
+magician/L_cloak_outline
+  rotate: false
+  xy: 66, 172
+  size: 59, 208
+  orig: 654, 1203
+  offset: 239, 306
+  index: -1
+magician/L_hand
+  rotate: true
+  xy: 208, 386
+  size: 90, 70
+  orig: 654, 1203
+  offset: 146, 255
+  index: -1
+magician/L_hand_outline
+  rotate: false
+  xy: 534, 201
+  size: 100, 80
+  orig: 654, 1203
+  offset: 141, 250
+  index: -1
+magician/L_hand_point
+  rotate: true
+  xy: 528, 282
+  size: 104, 150
+  orig: 104, 152
+  offset: 0, 0
+  index: -1
+magician/L_hand_point_back
+  rotate: false
+  xy: 1, 4
+  size: 104, 158
+  orig: 104, 158
+  offset: 0, 0
+  index: -1
+magician/L_hand_point_outline
+  rotate: false
+  xy: 106, 2
+  size: 115, 169
+  orig: 115, 169
+  offset: 0, 0
+  index: -1
+magician/L_shirt_upper
+  rotate: true
+  xy: 482, 494
+  size: 106, 191
+  orig: 654, 1203
+  offset: 190, 422
+  index: -1
+magician/L_shirt_upper_outline
+  rotate: false
+  xy: 239, 480
+  size: 115, 200
+  orig: 654, 1203
+  offset: 186, 418
+  index: -1
+magician/L_shirt_wrist
+  rotate: true
+  xy: 635, 252
+  size: 29, 33
+  orig: 654, 1203
+  offset: 215, 294
+  index: -1
+magician/L_shirt_wrist_outline
+  rotate: true
+  xy: 476, 325
+  size: 39, 42
+  orig: 654, 1203
+  offset: 210, 290
+  index: -1
+magician/L_shoe
+  rotate: false
+  xy: 476, 365
+  size: 47, 21
+  orig: 654, 1203
+  offset: 248, 28
+  index: -1
+magician/Pants
+  rotate: false
+  xy: 1, 381
+  size: 145, 299
+  orig: 654, 1203
+  offset: 257, 55
+  index: -1
+magician/R_arm
+  rotate: false
+  xy: 299, 199
+  size: 70, 187
+  orig: 654, 1203
+  offset: 334, 302
+  index: -1
+magician/R_arm_outline
+  rotate: true
+  xy: 482, 601
+  size: 79, 196
+  orig: 654, 1203
+  offset: 329, 298
+  index: -1
+magician/R_cloak
+  rotate: false
+  xy: 126, 172
+  size: 55, 208
+  orig: 654, 1203
+  offset: 316, 302
+  index: -1
+magician/R_cloak_outline
+  rotate: false
+  xy: 1, 163
+  size: 64, 217
+  orig: 654, 1203
+  offset: 311, 297
+  index: -1
+magician/R_hand
+  rotate: true
+  xy: 147, 383
+  size: 93, 60
+  orig: 654, 1203
+  offset: 374, 266
+  index: -1
+magician/R_hand_outline
+  rotate: false
+  xy: 370, 325
+  size: 105, 71
+  orig: 654, 1203
+  offset: 368, 261
+  index: -1
+magician/R_hand_point
+  rotate: true
+  xy: 370, 220
+  size: 104, 157
+  orig: 104, 157
+  offset: 0, 0
+  index: -1
+magician/R_hand_point_back
+  rotate: false
+  xy: 404, 42
+  size: 104, 157
+  orig: 104, 157
+  offset: 0, 0
+  index: -1
+magician/R_hand_point_outline
+  rotate: false
+  xy: 222, 12
+  size: 115, 169
+  orig: 115, 169
+  offset: 0, 0
+  index: -1
+magician/R_shirt_upper
+  rotate: true
+  xy: 482, 387
+  size: 106, 191
+  orig: 654, 1203
+  offset: 316, 427
+  index: -1
+magician/R_shirt_upper_outline
+  rotate: false
+  xy: 182, 182
+  size: 116, 200
+  orig: 654, 1203
+  offset: 311, 423
+  index: -1
+magician/R_shirt_wrist
+  rotate: false
+  xy: 503, 8
+  size: 30, 33
+  orig: 654, 1203
+  offset: 370, 297
+  index: -1
+magician/R_shirt_wrist_outline
+  rotate: true
+  xy: 404, 1
+  size: 40, 42
+  orig: 654, 1203
+  offset: 365, 293
+  index: -1
+magician/R_shoe
+  rotate: false
+  xy: 370, 200
+  size: 44, 19
+  orig: 654, 1203
+  offset: 372, 32
+  index: -1
+magician/Shirt
+  rotate: true
+  xy: 279, 397
+  size: 82, 194
+  orig: 654, 1203
+  offset: 264, 310
+  index: -1
+magician/Shirt_outline
+  rotate: false
+  xy: 147, 477
+  size: 91, 203
+  orig: 654, 1203
+  offset: 260, 305
+  index: -1
+magician/Tie_upper
+  rotate: true
+  xy: 635, 205
+  size: 46, 30
+  orig: 654, 1203
+  offset: 282, 484
+  index: -1
+magician/Tie_upper_outline
+  rotate: false
+  xy: 447, 3
+  size: 55, 38
+  orig: 654, 1203
+  offset: 278, 480
+  index: -1
+
+skeleton31.png
+size: 599,599
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+magician_hat/Hat
+  rotate: false
+  xy: 1, 1
+  size: 406, 293
+  orig: 654, 1203
+  offset: 143, 776
+  index: -1
+magician_hat/Hat_outline
+  rotate: false
+  xy: 1, 295
+  size: 415, 303
+  orig: 654, 1203
+  offset: 139, 771
+  index: -1
+
+skeleton32.png
+size: 909,909
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+main/Belt
+  rotate: false
+  xy: 878, 828
+  size: 28, 15
+  orig: 654, 1203
+  offset: 285, 328
+  index: -1
+main/Chin_line
+  rotate: false
+  xy: 538, 504
+  size: 52, 14
+  orig: 654, 1203
+  offset: 277, 584
+  index: -1
+main/Forehead_lines
+  rotate: true
+  xy: 502, 131
+  size: 200, 33
+  orig: 654, 1203
+  offset: 209, 802
+  index: -1
+main/Hair_left
+  rotate: true
+  xy: 304, 660
+  size: 52, 103
+  orig: 654, 1203
+  offset: 166, 756
+  index: -1
+main/Hair_right
+  rotate: false
+  xy: 304, 514
+  size: 73, 145
+  orig: 654, 1203
+  offset: 427, 703
+  index: -1
+main/Hair_upper
+  rotate: true
+  xy: 435, 660
+  size: 248, 66
+  orig: 654, 1203
+  offset: 208, 832
+  index: -1
+main/Head
+  rotate: false
+  xy: 1, 129
+  size: 290, 383
+  orig: 654, 1203
+  offset: 178, 498
+  index: -1
+main/Head_outline
+  rotate: false
+  xy: 1, 513
+  size: 302, 395
+  orig: 654, 1203
+  offset: 172, 493
+  index: -1
+main/L_arm
+  rotate: true
+  xy: 706, 237
+  size: 57, 182
+  orig: 654, 1203
+  offset: 228, 314
+  index: -1
+main/L_arm_outline
+  rotate: true
+  xy: 708, 372
+  size: 71, 196
+  orig: 654, 1203
+  offset: 221, 307
+  index: -1
+main/L_arm_skin_outline
+  rotate: true
+  xy: 737, 541
+  size: 135, 166
+  orig: 153, 188
+  offset: 7, 7
+  index: -1
+main/L_cheek
+  rotate: true
+  xy: 592, 10
+  size: 65, 45
+  orig: 654, 1203
+  offset: 192, 661
+  index: -1
+main/L_ear
+  rotate: false
+  xy: 592, 345
+  size: 115, 103
+  orig: 654, 1203
+  offset: 114, 666
+  index: -1
+main/L_elbow
+  rotate: true
+  xy: 304, 714
+  size: 12, 24
+  orig: 654, 1203
+  offset: 267, 361
+  index: -1
+main/L_eyeball
+  rotate: false
+  xy: 304, 727
+  size: 72, 72
+  orig: 654, 1203
+  offset: 215, 691
+  index: -1
+main/L_eyebrow
+  rotate: true
+  xy: 669, 197
+  size: 41, 22
+  orig: 654, 1203
+  offset: 218, 795
+  index: -1
+main/L_eyebrow_line
+  rotate: false
+  xy: 502, 851
+  size: 89, 57
+  orig: 654, 1203
+  offset: 194, 756
+  index: -1
+main/L_hand
+  rotate: false
+  xy: 502, 787
+  size: 88, 63
+  orig: 654, 1203
+  offset: 148, 256
+  index: -1
+main/L_hand_outline
+  rotate: false
+  xy: 399, 132
+  size: 102, 79
+  orig: 654, 1203
+  offset: 141, 248
+  index: -1
+main/L_hand_point
+  rotate: true
+  xy: 800, 95
+  size: 69, 100
+  orig: 654, 1203
+  offset: 204, 225
+  index: -1
+main/L_hand_point_back
+  rotate: true
+  xy: 807, 446
+  size: 71, 101
+  orig: 654, 1203
+  offset: 203, 224
+  index: -1
+main/L_hand_point_outline
+  rotate: true
+  xy: 592, 260
+  size: 84, 113
+  orig: 654, 1203
+  offset: 196, 218
+  index: -1
+main/L_iris
+  rotate: false
+  xy: 408, 614
+  size: 14, 14
+  orig: 654, 1203
+  offset: 247, 716
+  index: -1
+main/L_jacket
+  rotate: false
+  xy: 692, 18
+  size: 44, 218
+  orig: 654, 1203
+  offset: 245, 286
+  index: -1
+main/L_jacket_outline
+  rotate: true
+  xy: 502, 611
+  size: 60, 234
+  orig: 654, 1203
+  offset: 237, 278
+  index: -1
+main/L_lapel
+  rotate: false
+  xy: 710, 444
+  size: 23, 166
+  orig: 654, 1203
+  offset: 267, 347
+  index: -1
+main/L_lower_eyelid
+  rotate: true
+  xy: 881, 687
+  size: 68, 25
+  orig: 654, 1203
+  offset: 325, 690
+  index: -1
+main/L_shirt_wrist
+  rotate: false
+  xy: 878, 756
+  size: 26, 36
+  orig: 654, 1203
+  offset: 226, 308
+  index: -1
+main/L_shirt_wrist_outline
+  rotate: false
+  xy: 538, 345
+  size: 38, 47
+  orig: 654, 1203
+  offset: 219, 303
+  index: -1
+main/L_shoe
+  rotate: true
+  xy: 475, 613
+  size: 46, 21
+  orig: 654, 1203
+  offset: 248, 28
+  index: -1
+main/L_upper_eyelid
+  rotate: true
+  xy: 818, 680
+  size: 75, 62
+  orig: 654, 1203
+  offset: 324, 701
+  index: -1
+main/Mouth_area
+  rotate: true
+  xy: 502, 672
+  size: 114, 86
+  orig: 654, 1203
+  offset: 246, 581
+  index: -1
+main/Mouth_shocked
+  rotate: true
+  xy: 592, 557
+  size: 53, 117
+  orig: 654, 1203
+  offset: 277, 557
+  index: -1
+main/Mouth_smile
+  rotate: true
+  xy: 538, 393
+  size: 110, 51
+  orig: 654, 1203
+  offset: 250, 600
+  index: -1
+main/Nose
+  rotate: true
+  xy: 304, 800
+  size: 108, 129
+  orig: 654, 1203
+  offset: 245, 633
+  index: -1
+main/Nose_back
+  rotate: true
+  xy: 878, 881
+  size: 27, 29
+  orig: 654, 1203
+  offset: 241, 661
+  index: -1
+main/Pants
+  rotate: true
+  xy: 592, 766
+  size: 142, 285
+  orig: 654, 1203
+  offset: 259, 63
+  index: -1
+main/RL_upper_eyelid
+  rotate: true
+  xy: 754, 680
+  size: 75, 63
+  orig: 654, 1203
+  offset: 213, 701
+  index: -1
+main/R_arm
+  rotate: false
+  xy: 737, 58
+  size: 62, 178
+  orig: 654, 1203
+  offset: 325, 315
+  index: -1
+main/R_arm_outline
+  rotate: true
+  xy: 708, 295
+  size: 76, 193
+  orig: 654, 1203
+  offset: 318, 308
+  index: -1
+main/R_arm_skin_outline
+  rotate: true
+  xy: 1, 4
+  size: 124, 174
+  orig: 130, 203
+  offset: 1, 20
+  index: -1
+main/R_cheek
+  rotate: true
+  xy: 638, 12
+  size: 63, 46
+  orig: 654, 1203
+  offset: 350, 658
+  index: -1
+main/R_ear
+  rotate: false
+  xy: 592, 449
+  size: 115, 107
+  orig: 654, 1203
+  offset: 429, 657
+  index: -1
+main/R_ear_outline
+  rotate: false
+  xy: 176, 11
+  size: 128, 117
+  orig: 654, 1203
+  offset: 422, 654
+  index: -1
+main/R_elbow
+  rotate: true
+  xy: 408, 629
+  size: 14, 26
+  orig: 654, 1203
+  offset: 334, 363
+  index: -1
+main/R_eyeball
+  rotate: false
+  xy: 734, 445
+  size: 72, 72
+  orig: 654, 1203
+  offset: 325, 690
+  index: -1
+main/R_eyebrow
+  rotate: true
+  xy: 669, 155
+  size: 41, 22
+  orig: 654, 1203
+  offset: 350, 792
+  index: -1
+main/R_eyebrow_line
+  rotate: false
+  xy: 292, 130
+  size: 106, 81
+  orig: 654, 1203
+  offset: 313, 727
+  index: -1
+main/R_hand
+  rotate: true
+  xy: 378, 713
+  size: 86, 56
+  orig: 654, 1203
+  offset: 380, 267
+  index: -1
+main/R_hand_outline
+  rotate: false
+  xy: 435, 446
+  size: 102, 72
+  orig: 654, 1203
+  offset: 372, 259
+  index: -1
+main/R_hand_point
+  rotate: true
+  xy: 592, 76
+  size: 69, 99
+  orig: 654, 1203
+  offset: 342, 228
+  index: -1
+main/R_hand_point_back
+  rotate: true
+  xy: 800, 165
+  size: 71, 101
+  orig: 654, 1203
+  offset: 341, 227
+  index: -1
+main/R_hand_point_outline
+  rotate: false
+  xy: 584, 146
+  size: 84, 113
+  orig: 654, 1203
+  offset: 335, 221
+  index: -1
+main/R_iris
+  rotate: false
+  xy: 577, 378
+  size: 14, 14
+  orig: 654, 1203
+  offset: 346, 716
+  index: -1
+main/R_jacket
+  rotate: false
+  xy: 538, 130
+  size: 45, 214
+  orig: 654, 1203
+  offset: 323, 290
+  index: -1
+main/R_jacket_outline
+  rotate: false
+  xy: 435, 213
+  size: 61, 230
+  orig: 654, 1203
+  offset: 315, 282
+  index: -1
+main/R_lapel
+  rotate: true
+  xy: 734, 518
+  size: 22, 166
+  orig: 654, 1203
+  offset: 317, 349
+  index: -1
+main/R_lower_eyelid
+  rotate: true
+  xy: 408, 644
+  size: 68, 26
+  orig: 654, 1203
+  offset: 219, 690
+  index: -1
+main/R_shirt_wrist
+  rotate: false
+  xy: 878, 844
+  size: 28, 36
+  orig: 654, 1203
+  offset: 362, 310
+  index: -1
+main/R_shirt_wrist_outline
+  rotate: false
+  xy: 435, 611
+  size: 39, 48
+  orig: 654, 1203
+  offset: 356, 304
+  index: -1
+main/R_shoe
+  rotate: true
+  xy: 889, 249
+  size: 45, 18
+  orig: 654, 1203
+  offset: 371, 33
+  index: -1
+main/Shine
+  rotate: false
+  xy: 329, 715
+  size: 14, 11
+  orig: 654, 1203
+  offset: 296, 587
+  index: -1
+main/Shirt
+  rotate: true
+  xy: 589, 677
+  size: 78, 164
+  orig: 654, 1203
+  offset: 261, 339
+  index: -1
+main/Shirt_label
+  rotate: true
+  xy: 378, 611
+  size: 48, 29
+  orig: 654, 1203
+  offset: 281, 486
+  index: -1
+main/Skin_body_outline
+  rotate: true
+  xy: 378, 519
+  size: 91, 208
+  orig: 120, 229
+  offset: 12, 9
+  index: -1
+main/Skin_legs
+  rotate: true
+  xy: 305, 1
+  size: 128, 286
+  orig: 145, 300
+  offset: 6, 6
+  index: -1
+main/Skin_legs_outline
+  rotate: false
+  xy: 292, 212
+  size: 142, 300
+  orig: 156, 317
+  offset: 7, 4
+  index: -1
+main/Tie_lower
+  rotate: false
+  xy: 497, 332
+  size: 40, 113
+  orig: 654, 1203
+  offset: 281, 363
+  index: -1
+main/Tie_upper
+  rotate: false
+  xy: 878, 793
+  size: 27, 34
+  orig: 654, 1203
+  offset: 289, 474
+  index: -1
+main/Tongue
+  rotate: false
+  xy: 669, 239
+  size: 34, 20
+  orig: 654, 1203
+  offset: 294, 597
+  index: -1
+
+skeleton33.png
+size: 842,842
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+medieval_knight/Cloak_behind
+  rotate: false
+  xy: 187, 343
+  size: 168, 219
+  orig: 654, 1203
+  offset: 229, 121
+  index: -1
+medieval_knight/Cloak_behind_outline
+  rotate: false
+  xy: 1, 74
+  size: 176, 227
+  orig: 654, 1203
+  offset: 225, 117
+  index: -1
+medieval_knight/L_arm
+  rotate: true
+  xy: 272, 64
+  size: 81, 186
+  orig: 654, 1203
+  offset: 216, 322
+  index: -1
+medieval_knight/L_arm_outline
+  rotate: false
+  xy: 272, 146
+  size: 89, 196
+  orig: 654, 1203
+  offset: 212, 318
+  index: -1
+medieval_knight/L_hand
+  rotate: true
+  xy: 704, 709
+  size: 132, 114
+  orig: 654, 1203
+  offset: 140, 250
+  index: -1
+medieval_knight/L_hand_outline
+  rotate: true
+  xy: 419, 563
+  size: 141, 124
+  orig: 654, 1203
+  offset: 135, 245
+  index: -1
+medieval_knight/L_hand_point
+  rotate: false
+  xy: 721, 500
+  size: 119, 208
+  orig: 119, 208
+  offset: 0, 0
+  index: -1
+medieval_knight/L_hand_point_back
+  rotate: true
+  xy: 484, 304
+  size: 120, 209
+  orig: 120, 209
+  offset: 0, 0
+  index: -1
+medieval_knight/L_hand_point_outline
+  rotate: true
+  xy: 482, 709
+  size: 132, 221
+  orig: 132, 221
+  offset: 0, 0
+  index: -1
+medieval_knight/L_shoe
+  rotate: true
+  xy: 1, 13
+  size: 60, 125
+  orig: 654, 1203
+  offset: 239, 28
+  index: -1
+medieval_knight/Pants
+  rotate: true
+  xy: 195, 705
+  size: 136, 286
+  orig: 654, 1203
+  offset: 248, 68
+  index: -1
+medieval_knight/Pants_front
+  rotate: false
+  xy: 1, 302
+  size: 185, 265
+  orig: 654, 1203
+  offset: 220, 105
+  index: -1
+medieval_knight/Pants_front_outline
+  rotate: false
+  xy: 1, 568
+  size: 193, 273
+  orig: 654, 1203
+  offset: 216, 101
+  index: -1
+medieval_knight/R_arm
+  rotate: true
+  xy: 459, 75
+  size: 83, 195
+  orig: 654, 1203
+  offset: 321, 319
+  index: -1
+medieval_knight/R_arm_outline
+  rotate: false
+  xy: 178, 98
+  size: 93, 203
+  orig: 654, 1203
+  offset: 316, 315
+  index: -1
+medieval_knight/R_hand
+  rotate: false
+  xy: 694, 274
+  size: 135, 107
+  orig: 654, 1203
+  offset: 339, 263
+  index: -1
+medieval_knight/R_hand_outline
+  rotate: false
+  xy: 697, 382
+  size: 144, 117
+  orig: 654, 1203
+  offset: 337, 258
+  index: -1
+medieval_knight/R_hand_point
+  rotate: false
+  xy: 356, 350
+  size: 127, 212
+  orig: 127, 212
+  offset: 0, 0
+  index: -1
+medieval_knight/R_hand_point_back
+  rotate: true
+  xy: 484, 425
+  size: 129, 212
+  orig: 129, 212
+  offset: 0, 0
+  index: -1
+medieval_knight/R_hand_point_outline
+  rotate: true
+  xy: 195, 563
+  size: 141, 223
+  orig: 141, 223
+  offset: 0, 0
+  index: -1
+medieval_knight/R_shoe
+  rotate: true
+  xy: 655, 65
+  size: 85, 124
+  orig: 654, 1203
+  offset: 339, 31
+  index: -1
+medieval_knight/Shirt
+  rotate: false
+  xy: 362, 175
+  size: 114, 174
+  orig: 654, 1203
+  offset: 250, 351
+  index: -1
+medieval_knight/Shirt_outline
+  rotate: true
+  xy: 658, 151
+  size: 122, 183
+  orig: 654, 1203
+  offset: 246, 346
+  index: -1
+medieval_knight/Vector Smart Object
+  rotate: false
+  xy: 477, 159
+  size: 180, 144
+  orig: 180, 144
+  offset: 0, 0
+  index: -1
+medieval_knight/Vector Smart Object-1
+  rotate: false
+  xy: 544, 555
+  size: 176, 153
+  orig: 176, 153
+  offset: 0, 0
+  index: -1
+
+skeleton34.png
+size: 1073,1073
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+medieval_knight_hat/Hat_outline
+  rotate: false
+  xy: 1, 506
+  size: 539, 566
+  orig: 654, 1203
+  offset: 66, 499
+  index: -1
+medieval_knight_hat/Vector Smart Object
+  rotate: false
+  xy: 541, 514
+  size: 531, 558
+  orig: 654, 1203
+  offset: 70, 503
+  index: -1
+
+skeleton35.png
+size: 696,696
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ninja/Belt
+  rotate: false
+  xy: 597, 103
+  size: 96, 119
+  orig: 654, 1203
+  offset: 263, 284
+  index: -1
+ninja/Belt_outline
+  rotate: false
+  xy: 347, 566
+  size: 105, 129
+  orig: 654, 1203
+  offset: 258, 279
+  index: -1
+ninja/Bp
+  rotate: false
+  xy: 1, 2
+  size: 221, 325
+  orig: 654, 1203
+  offset: 201, 272
+  index: -1
+ninja/Bp_outline
+  rotate: false
+  xy: 223, 2
+  size: 231, 335
+  orig: 654, 1203
+  offset: 196, 267
+  index: -1
+ninja/L_Arm
+  rotate: true
+  xy: 455, 375
+  size: 99, 230
+  orig: 654, 1203
+  offset: 180, 269
+  index: -1
+ninja/L_arm_outline
+  rotate: true
+  xy: 455, 586
+  size: 109, 240
+  orig: 654, 1203
+  offset: 175, 264
+  index: -1
+ninja/Pants
+  rotate: false
+  xy: 179, 338
+  size: 167, 357
+  orig: 654, 1203
+  offset: 255, 19
+  index: -1
+ninja/Pants_outline
+  rotate: false
+  xy: 1, 328
+  size: 177, 367
+  orig: 654, 1203
+  offset: 250, 14
+  index: -1
+ninja/R_arm
+  rotate: false
+  xy: 347, 338
+  size: 100, 227
+  orig: 654, 1203
+  offset: 334, 276
+  index: -1
+ninja/R_arm_outline
+  rotate: true
+  xy: 455, 475
+  size: 110, 237
+  orig: 654, 1203
+  offset: 329, 271
+  index: -1
+ninja/Shirt
+  rotate: false
+  xy: 455, 17
+  size: 141, 205
+  orig: 654, 1203
+  offset: 238, 324
+  index: -1
+ninja/Shirt_outline
+  rotate: true
+  xy: 455, 223
+  size: 151, 215
+  orig: 654, 1203
+  offset: 233, 319
+  index: -1
+
+skeleton36.png
+size: 760,760
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+opera/L_Arm
+  rotate: false
+  xy: 594, 488
+  size: 126, 163
+  orig: 654, 1203
+  offset: 147, 256
+  index: -1
+opera/L_Arm_outline
+  rotate: false
+  xy: 434, 588
+  size: 135, 171
+  orig: 654, 1203
+  offset: 143, 252
+  index: -1
+opera/Pants
+  rotate: false
+  xy: 1, 1
+  size: 422, 374
+  orig: 654, 1203
+  offset: 100, 27
+  index: -1
+opera/Pants_outline
+  rotate: false
+  xy: 1, 376
+  size: 432, 383
+  orig: 654, 1203
+  offset: 95, 22
+  index: -1
+opera/R_Arm
+  rotate: true
+  xy: 434, 456
+  size: 131, 159
+  orig: 654, 1203
+  offset: 336, 265
+  index: -1
+opera/R_arm_outline
+  rotate: true
+  xy: 424, 38
+  size: 141, 168
+  orig: 654, 1203
+  offset: 331, 260
+  index: -1
+opera/Shirt
+  rotate: true
+  xy: 506, 189
+  size: 93, 163
+  orig: 654, 1203
+  offset: 257, 314
+  index: -1
+opera/Shirt_outline
+  rotate: false
+  xy: 506, 283
+  size: 102, 172
+  orig: 654, 1203
+  offset: 253, 310
+  index: -1
+opera/Skin_body
+  rotate: false
+  xy: 424, 180
+  size: 81, 195
+  orig: 654, 1203
+  offset: 262, 347
+  index: -1
+opera/Skin_l_arm
+  rotate: true
+  xy: 570, 652
+  size: 56, 181
+  orig: 654, 1203
+  offset: 329, 314
+  index: -1
+opera/Skin_r_arm
+  rotate: true
+  xy: 570, 709
+  size: 50, 186
+  orig: 654, 1203
+  offset: 230, 309
+  index: -1
+opera/skin_upper
+  rotate: false
+  xy: 424, 36
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+skeleton37.png
+size: 949,949
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+opera_hat/Hat
+  rotate: false
+  xy: 479, 378
+  size: 469, 570
+  orig: 654, 1203
+  offset: 90, 618
+  index: -1
+opera_hat/Hat_outline
+  rotate: false
+  xy: 1, 369
+  size: 477, 579
+  orig: 654, 1203
+  offset: 86, 614
+  index: -1
+
+skeleton38.png
+size: 278,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pirate/Belt
+  rotate: true
+  xy: 1, 208
+  size: 69, 122
+  orig: 654, 1203
+  offset: 302, 251
+  index: -1
+pirate/Belt_outline
+  rotate: true
+  xy: 124, 198
+  size: 79, 132
+  orig: 654, 1203
+  offset: 297, 246
+  index: -1
+pirate/Eye_patch
+  rotate: false
+  xy: 1, 81
+  size: 276, 116
+  orig: 654, 1203
+  offset: 179, 693
+  index: -1
+
+skeleton39.png
+size: 590,590
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pirate_hat/Hat
+  rotate: false
+  xy: 1, 1
+  size: 533, 289
+  orig: 654, 1203
+  offset: 65, 755
+  index: -1
+pirate_hat/Hat_outline
+  rotate: false
+  xy: 1, 291
+  size: 542, 298
+  orig: 654, 1203
+  offset: 60, 751
+  index: -1
+
+skeleton40.png
+size: 449,449
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+police/Belt
+  rotate: true
+  xy: 284, 77
+  size: 100, 47
+  orig: 654, 1203
+  offset: 256, 323
+  index: -1
+police/Belt_outline
+  rotate: false
+  xy: 284, 18
+  size: 104, 57
+  orig: 654, 1203
+  offset: 254, 318
+  index: -1
+police/L_arm
+  rotate: true
+  xy: 146, 275
+  size: 81, 210
+  orig: 654, 1203
+  offset: 201, 286
+  index: -1
+police/L_arm_outline
+  rotate: true
+  xy: 146, 357
+  size: 91, 220
+  orig: 654, 1203
+  offset: 197, 281
+  index: -1
+police/L_shoe_outline
+  rotate: true
+  xy: 159, 5
+  size: 47, 21
+  orig: 654, 1203
+  offset: 247, 28
+  index: -1
+police/Pants
+  rotate: false
+  xy: 1, 159
+  size: 144, 289
+  orig: 654, 1203
+  offset: 258, 58
+  index: -1
+police/R_arm
+  rotate: false
+  xy: 354, 76
+  size: 86, 198
+  orig: 654, 1203
+  offset: 328, 298
+  index: -1
+police/R_arm_outline
+  rotate: true
+  xy: 146, 178
+  size: 96, 207
+  orig: 654, 1203
+  offset: 323, 294
+  index: -1
+police/R_shoe_outline
+  rotate: true
+  xy: 389, 30
+  size: 45, 19
+  orig: 654, 1203
+  offset: 371, 33
+  index: -1
+police/Shirt
+  rotate: false
+  xy: 188, 1
+  size: 95, 176
+  orig: 654, 1203
+  offset: 255, 332
+  index: -1
+police/Shirt_label
+  rotate: false
+  xy: 357, 285
+  size: 68, 31
+  orig: 654, 1203
+  offset: 272, 492
+  index: -1
+police/Shirt_label_outline
+  rotate: false
+  xy: 357, 317
+  size: 77, 39
+  orig: 654, 1203
+  offset: 267, 488
+  index: -1
+police/Shirt_outline
+  rotate: true
+  xy: 1, 53
+  size: 105, 186
+  orig: 654, 1203
+  offset: 250, 327
+  index: -1
+police/Tie_lower
+  rotate: true
+  xy: 1, 11
+  size: 41, 157
+  orig: 654, 1203
+  offset: 282, 356
+  index: -1
+
+skeleton41.png
+size: 508,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+police_hat/Hat
+  rotate: false
+  xy: 1, 1
+  size: 485, 248
+  orig: 654, 1203
+  offset: 95, 786
+  index: -1
+police_hat/Hat_outline
+  rotate: false
+  xy: 1, 250
+  size: 494, 257
+  orig: 654, 1203
+  offset: 91, 780
+  index: -1
+
+skeleton42.png
+size: 594,594
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+popstar/Dress
+  rotate: true
+  xy: 181, 1
+  size: 124, 329
+  orig: 654, 1203
+  offset: 248, 188
+  index: -1
+popstar/Dress_outline
+  rotate: false
+  xy: 343, 254
+  size: 135, 339
+  orig: 654, 1203
+  offset: 242, 183
+  index: -1
+popstar/L_eyeshadow
+  rotate: false
+  xy: 343, 174
+  size: 87, 79
+  orig: 654, 1203
+  offset: 198, 716
+  index: -1
+popstar/L_shoe
+  rotate: false
+  xy: 479, 391
+  size: 53, 100
+  orig: 654, 1203
+  offset: 254, 26
+  index: -1
+popstar/R_bracelet
+  rotate: false
+  xy: 1, 6
+  size: 23, 22
+  orig: 654, 1203
+  offset: 376, 301
+  index: -1
+popstar/R_bracelet_outline
+  rotate: false
+  xy: 102, 76
+  size: 33, 32
+  orig: 654, 1203
+  offset: 371, 296
+  index: -1
+popstar/R_eyeshadow
+  rotate: false
+  xy: 1, 29
+  size: 100, 79
+  orig: 654, 1203
+  offset: 320, 716
+  index: -1
+popstar/R_shoe
+  rotate: false
+  xy: 479, 492
+  size: 65, 101
+  orig: 654, 1203
+  offset: 361, 28
+  index: -1
+popstar/Skin_full
+  rotate: false
+  xy: 181, 126
+  size: 161, 467
+  orig: 654, 1203
+  offset: 227, 74
+  index: -1
+popstar/Skin_full_outline
+  rotate: false
+  xy: 1, 109
+  size: 179, 484
+  orig: 654, 1203
+  offset: 218, 66
+  index: -1
+
+skeleton43.png
+size: 547,547
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+renaissence_artist/L_arm
+  rotate: true
+  xy: 340, 301
+  size: 135, 190
+  orig: 654, 1203
+  offset: 164, 298
+  index: -1
+renaissence_artist/L_arm_outline
+  rotate: true
+  xy: 340, 155
+  size: 145, 198
+  orig: 654, 1203
+  offset: 159, 294
+  index: -1
+renaissence_artist/L_shoe
+  rotate: true
+  xy: 285, 480
+  size: 66, 79
+  orig: 654, 1203
+  offset: 249, 27
+  index: -1
+renaissence_artist/Mustache
+  rotate: false
+  xy: 1, 500
+  size: 197, 46
+  orig: 654, 1203
+  offset: 197, 624
+  index: -1
+renaissence_artist/Pants
+  rotate: true
+  xy: 1, 23
+  size: 140, 268
+  orig: 654, 1203
+  offset: 254, 81
+  index: -1
+renaissence_artist/Pants_outline
+  rotate: true
+  xy: 270, 5
+  size: 149, 276
+  orig: 654, 1203
+  offset: 249, 77
+  index: -1
+renaissence_artist/R_arm
+  rotate: true
+  xy: 1, 278
+  size: 140, 188
+  orig: 654, 1203
+  offset: 307, 298
+  index: -1
+renaissence_artist/R_arm_outline
+  rotate: false
+  xy: 190, 164
+  size: 149, 196
+  orig: 654, 1203
+  offset: 302, 294
+  index: -1
+renaissence_artist/R_shoe
+  rotate: true
+  xy: 199, 485
+  size: 61, 85
+  orig: 654, 1203
+  offset: 361, 29
+  index: -1
+renaissence_artist/Shirt
+  rotate: true
+  xy: 365, 437
+  size: 109, 133
+  orig: 654, 1203
+  offset: 251, 330
+  index: -1
+renaissence_artist/Shirt_outline
+  rotate: true
+  xy: 197, 361
+  size: 118, 142
+  orig: 654, 1203
+  offset: 246, 325
+  index: -1
+renaissence_artist/Skin_body
+  rotate: true
+  xy: 1, 419
+  size: 80, 195
+  orig: 654, 1203
+  offset: 263, 340
+  index: -1
+
+skeleton44.png
+size: 822,822
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+renassence_artist_hat/Hat
+  rotate: false
+  xy: 1, 1
+  size: 494, 405
+  orig: 654, 1203
+  offset: 46, 592
+  index: -1
+renassence_artist_hat/Hat_outline
+  rotate: false
+  xy: 1, 407
+  size: 503, 414
+  orig: 654, 1203
+  offset: 42, 587
+  index: -1
+
+skeleton45.png
+size: 624,624
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+retro/Body
+  rotate: true
+  xy: 153, 1
+  size: 65, 228
+  orig: 74, 237
+  offset: 6, 1
+  index: -1
+retro/Body_outline
+  rotate: true
+  xy: 382, 554
+  size: 69, 233
+  orig: 94, 254
+  offset: 14, 8
+  index: -1
+retro/L_arm
+  rotate: false
+  xy: 119, 343
+  size: 105, 280
+  orig: 105, 280
+  offset: 0, 0
+  index: -1
+retro/L_arm_outline
+  rotate: false
+  xy: 1, 331
+  size: 117, 292
+  orig: 117, 292
+  offset: 0, 0
+  index: -1
+retro/L_hand
+  rotate: false
+  xy: 257, 246
+  size: 135, 98
+  orig: 135, 99
+  offset: 0, 0
+  index: -1
+retro/L_hand_outline
+  rotate: false
+  xy: 467, 5
+  size: 147, 110
+  orig: 147, 110
+  offset: 0, 0
+  index: -1
+retro/L_hand_point
+  rotate: true
+  xy: 467, 228
+  size: 104, 153
+  orig: 104, 158
+  offset: 0, 0
+  index: -1
+retro/L_hand_point_back
+  rotate: true
+  xy: 395, 333
+  size: 104, 157
+  orig: 104, 158
+  offset: 0, 0
+  index: -1
+retro/L_hand_point_outline
+  rotate: true
+  xy: 225, 345
+  size: 115, 169
+  orig: 115, 169
+  offset: 0, 0
+  index: -1
+retro/L_shoe
+  rotate: false
+  xy: 225, 552
+  size: 25, 71
+  orig: 42, 87
+  offset: 10, 7
+  index: -1
+retro/L_shoe_outline
+  rotate: true
+  xy: 76, 12
+  size: 29, 76
+  orig: 48, 87
+  offset: 11, 4
+  index: -1
+retro/R_arm
+  rotate: false
+  xy: 135, 67
+  size: 121, 275
+  orig: 121, 276
+  offset: 0, 1
+  index: -1
+retro/R_arm_outline
+  rotate: false
+  xy: 1, 42
+  size: 133, 288
+  orig: 133, 288
+  offset: 0, 0
+  index: -1
+retro/R_hand
+  rotate: false
+  xy: 467, 116
+  size: 150, 111
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+retro/R_hand_outline
+  rotate: true
+  xy: 257, 461
+  size: 162, 123
+  orig: 162, 123
+  offset: 0, 0
+  index: -1
+retro/R_hand_point
+  rotate: false
+  xy: 257, 88
+  size: 104, 157
+  orig: 104, 157
+  offset: 0, 0
+  index: -1
+retro/R_hand_point_back
+  rotate: false
+  xy: 362, 88
+  size: 104, 157
+  orig: 104, 157
+  offset: 0, 0
+  index: -1
+retro/R_hand_point_outline
+  rotate: true
+  xy: 425, 438
+  size: 115, 169
+  orig: 115, 169
+  offset: 0, 0
+  index: -1
+retro/R_shoe
+  rotate: true
+  xy: 1, 2
+  size: 39, 74
+  orig: 45, 86
+  offset: 2, 2
+  index: -1
+retro/R_shoe_outline
+  rotate: false
+  xy: 381, 475
+  size: 43, 78
+  orig: 57, 86
+  offset: 4, 2
+  index: -1
+
+skeleton46.png
+size: 268,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+retro_hat/Hat
+  rotate: false
+  xy: 1, 16
+  size: 266, 251
+  orig: 290, 267
+  offset: 9, 8
+  index: -1
+
+skeleton47.png
+size: 647,647
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+robot/L_arm
+  rotate: true
+  xy: 1, 5
+  size: 78, 195
+  orig: 654, 1203
+  offset: 209, 296
+  index: -1
+robot/L_arm_outline
+  rotate: false
+  xy: 1, 84
+  size: 87, 205
+  orig: 654, 1203
+  offset: 204, 291
+  index: -1
+robot/L_hand
+  rotate: false
+  xy: 550, 120
+  size: 96, 60
+  orig: 654, 1203
+  offset: 145, 253
+  index: -1
+robot/L_hand_outline
+  rotate: false
+  xy: 197, 23
+  size: 106, 70
+  orig: 654, 1203
+  offset: 140, 248
+  index: -1
+robot/L_hand_point
+  rotate: false
+  xy: 445, 25
+  size: 104, 155
+  orig: 104, 158
+  offset: 0, 0
+  index: -1
+robot/L_hand_point_back
+  rotate: false
+  xy: 200, 296
+  size: 104, 158
+  orig: 104, 158
+  offset: 0, 0
+  index: -1
+robot/L_hand_point_outline
+  rotate: false
+  xy: 305, 327
+  size: 115, 169
+  orig: 115, 169
+  offset: 0, 0
+  index: -1
+robot/Pants
+  rotate: false
+  xy: 304, 6
+  size: 140, 289
+  orig: 654, 1203
+  offset: 258, 60
+  index: -1
+robot/Pants_outline
+  rotate: true
+  xy: 304, 497
+  size: 149, 298
+  orig: 654, 1203
+  offset: 253, 55
+  index: -1
+robot/R_arm
+  rotate: false
+  xy: 185, 94
+  size: 87, 195
+  orig: 654, 1203
+  offset: 321, 303
+  index: -1
+robot/R_arm_outline
+  rotate: false
+  xy: 89, 85
+  size: 95, 204
+  orig: 654, 1203
+  offset: 317, 298
+  index: -1
+robot/R_hand
+  rotate: false
+  xy: 550, 60
+  size: 95, 59
+  orig: 654, 1203
+  offset: 376, 264
+  index: -1
+robot/R_hand_outline
+  rotate: true
+  xy: 445, 222
+  size: 104, 69
+  orig: 654, 1203
+  offset: 372, 259
+  index: -1
+robot/R_hand_point
+  rotate: false
+  xy: 537, 339
+  size: 104, 157
+  orig: 104, 157
+  offset: 0, 0
+  index: -1
+robot/R_hand_point_back
+  rotate: false
+  xy: 537, 181
+  size: 104, 157
+  orig: 104, 157
+  offset: 0, 0
+  index: -1
+robot/R_hand_point_outline
+  rotate: false
+  xy: 421, 327
+  size: 115, 169
+  orig: 115, 169
+  offset: 0, 0
+  index: -1
+robot/Shirt
+  rotate: false
+  xy: 200, 455
+  size: 103, 191
+  orig: 654, 1203
+  offset: 253, 324
+  index: -1
+robot/Shirt_outline
+  rotate: false
+  xy: 1, 290
+  size: 198, 356
+  orig: 654, 1203
+  offset: 188, 553
+  index: -1
+
+skeleton48.png
+size: 750,750
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+robot_hat/Hat
+  rotate: false
+  xy: 1, 1
+  size: 441, 369
+  orig: 654, 1203
+  offset: 114, 545
+  index: -1
+robot_hat/Hat_outline
+  rotate: false
+  xy: 1, 371
+  size: 450, 378
+  orig: 654, 1203
+  offset: 107, 541
+  index: -1
+
+skeleton49.png
+size: 592,592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+safari/Bp
+  rotate: true
+  xy: 159, 379
+  size: 212, 253
+  orig: 654, 1203
+  offset: 205, 309
+  index: -1
+safari/Bp_outline
+  rotate: true
+  xy: 1, 70
+  size: 221, 263
+  orig: 654, 1203
+  offset: 201, 304
+  index: -1
+safari/L_arm
+  rotate: true
+  xy: 159, 292
+  size: 86, 218
+  orig: 654, 1203
+  offset: 203, 300
+  index: -1
+safari/L_arm_outline
+  rotate: true
+  xy: 362, 65
+  size: 95, 229
+  orig: 654, 1203
+  offset: 202, 295
+  index: -1
+safari/L_bp_line
+  rotate: true
+  xy: 1, 29
+  size: 40, 160
+  orig: 654, 1203
+  offset: 248, 364
+  index: -1
+safari/L_bp_line_outline
+  rotate: false
+  xy: 524, 421
+  size: 50, 170
+  orig: 654, 1203
+  offset: 243, 359
+  index: -1
+safari/L_shoe
+  rotate: false
+  xy: 527, 36
+  size: 48, 28
+  orig: 654, 1203
+  offset: 249, 28
+  index: -1
+safari/Pants
+  rotate: false
+  xy: 1, 292
+  size: 157, 299
+  orig: 654, 1203
+  offset: 252, 61
+  index: -1
+safari/R_arm
+  rotate: false
+  xy: 499, 167
+  size: 86, 216
+  orig: 654, 1203
+  offset: 326, 305
+  index: -1
+safari/R_arm_outline
+  rotate: false
+  xy: 265, 64
+  size: 96, 227
+  orig: 654, 1203
+  offset: 316, 300
+  index: -1
+safari/R_bp_line
+  rotate: true
+  xy: 162, 24
+  size: 39, 155
+  orig: 654, 1203
+  offset: 323, 372
+  index: -1
+safari/R_bp_line_outline
+  rotate: true
+  xy: 362, 16
+  size: 48, 164
+  orig: 654, 1203
+  offset: 319, 367
+  index: -1
+safari/R_shoe
+  rotate: false
+  xy: 524, 392
+  size: 49, 28
+  orig: 654, 1203
+  offset: 368, 32
+  index: -1
+safari/Shirt
+  rotate: false
+  xy: 413, 384
+  size: 110, 207
+  orig: 654, 1203
+  offset: 251, 336
+  index: -1
+safari/Shirt_outline
+  rotate: false
+  xy: 378, 161
+  size: 120, 217
+  orig: 654, 1203
+  offset: 245, 326
+  index: -1
+
+skeleton50.png
+size: 872,872
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+safari_hat/Hat
+  rotate: false
+  xy: 1, 310
+  size: 430, 313
+  orig: 654, 1203
+  offset: 117, 686
+  index: -1
+safari_hat/Hat_behind
+  rotate: false
+  xy: 1, 624
+  size: 431, 247
+  orig: 654, 1203
+  offset: 120, 608
+  index: -1
+safari_hat/Hat_behind_outline
+  rotate: false
+  xy: 433, 624
+  size: 431, 247
+  orig: 654, 1203
+  offset: 120, 608
+  index: -1
+safari_hat/Hat_outline
+  rotate: false
+  xy: 432, 304
+  size: 439, 319
+  orig: 654, 1203
+  offset: 112, 683
+  index: -1
+
+skeleton51.png
+size: 857,857
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+steampunk/Cloak_behind
+  rotate: false
+  xy: 1, 113
+  size: 410, 363
+  orig: 410, 363
+  offset: 0, 0
+  index: -1
+steampunk/Cloak_behind_outline
+  rotate: false
+  xy: 1, 477
+  size: 426, 379
+  orig: 426, 379
+  offset: 0, 0
+  index: -1
+steampunk/L_arm
+  rotate: true
+  xy: 553, 107
+  size: 96, 201
+  orig: 654, 1203
+  offset: 200, 296
+  index: -1
+steampunk/L_arm_outline
+  rotate: false
+  xy: 553, 204
+  size: 105, 210
+  orig: 654, 1203
+  offset: 199, 291
+  index: -1
+steampunk/L_cloak
+  rotate: false
+  xy: 690, 408
+  size: 102, 448
+  orig: 654, 1203
+  offset: 197, 73
+  index: -1
+steampunk/L_cloak_outlline
+  rotate: true
+  xy: 1, 2
+  size: 110, 458
+  orig: 654, 1203
+  offset: 193, 68
+  index: -1
+steampunk/L_shoe
+  rotate: false
+  xy: 793, 733
+  size: 59, 123
+  orig: 654, 1203
+  offset: 255, 28
+  index: -1
+steampunk/Mustache
+  rotate: true
+  xy: 793, 598
+  size: 134, 36
+  orig: 654, 1203
+  offset: 235, 624
+  index: -1
+steampunk/Pants
+  rotate: false
+  xy: 412, 124
+  size: 140, 290
+  orig: 654, 1203
+  offset: 255, 61
+  index: -1
+steampunk/R_arm
+  rotate: true
+  xy: 659, 316
+  size: 91, 197
+  orig: 654, 1203
+  offset: 318, 305
+  index: -1
+steampunk/R_arm_outline
+  rotate: true
+  xy: 542, 6
+  size: 100, 206
+  orig: 654, 1203
+  offset: 309, 300
+  index: -1
+steampunk/R_cloak
+  rotate: false
+  xy: 563, 424
+  size: 126, 432
+  orig: 654, 1203
+  offset: 317, 94
+  index: -1
+steampunk/R_cloak_outline
+  rotate: false
+  xy: 428, 415
+  size: 134, 441
+  orig: 654, 1203
+  offset: 312, 87
+  index: -1
+steampunk/R_shoe
+  rotate: false
+  xy: 460, 1
+  size: 81, 122
+  orig: 654, 1203
+  offset: 349, 34
+  index: -1
+steampunk/Shirt_label
+  rotate: true
+  xy: 793, 546
+  size: 51, 30
+  orig: 654, 1203
+  offset: 282, 482
+  index: -1
+steampunk/Tie_upper
+  rotate: false
+  xy: 830, 282
+  size: 24, 33
+  orig: 654, 1203
+  offset: 294, 471
+  index: -1
+steampunk/Vest
+  rotate: true
+  xy: 659, 216
+  size: 99, 170
+  orig: 654, 1203
+  offset: 260, 336
+  index: -1
+
+skeleton52.png
+size: 705,705
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+steampunk_hat/Hat
+  rotate: false
+  xy: 1, 1
+  size: 446, 346
+  orig: 654, 1203
+  offset: 113, 750
+  index: -1
+steampunk_hat/Hat_outline
+  rotate: false
+  xy: 1, 348
+  size: 455, 356
+  orig: 654, 1203
+  offset: 109, 745
+  index: -1
+
+skeleton53.png
+size: 247,247
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+superhero/Belt
+  rotate: false
+  xy: 193, 18
+  size: 52, 13
+  orig: 61, 23
+  offset: 5, 4
+  index: -1
+superhero/Belt_outline
+  rotate: false
+  xy: 144, 82
+  size: 57, 18
+  orig: 64, 21
+  offset: 4, 0
+  index: -1
+superhero/L_cloak
+  rotate: true
+  xy: 70, 182
+  size: 64, 143
+  orig: 77, 150
+  offset: 3, 3
+  index: -1
+superhero/L_cloak_outline
+  rotate: false
+  xy: 1, 99
+  size: 68, 147
+  orig: 74, 157
+  offset: 3, 4
+  index: -1
+superhero/R_cloak
+  rotate: true
+  xy: 70, 101
+  size: 80, 138
+  orig: 86, 143
+  offset: 3, 0
+  index: -1
+superhero/R_cloak_outline
+  rotate: true
+  xy: 1, 15
+  size: 83, 142
+  orig: 91, 148
+  offset: 3, 4
+  index: -1
+superhero/Shirt_collar
+  rotate: false
+  xy: 144, 13
+  size: 42, 13
+  orig: 45, 18
+  offset: 2, 2
+  index: -1
+superhero/Shirt_collar_outline
+  rotate: false
+  xy: 193, 32
+  size: 47, 18
+  orig: 52, 26
+  offset: 2, 4
+  index: -1
+superhero/Superhero_pants
+  rotate: true
+  xy: 202, 51
+  size: 49, 44
+  orig: 55, 47
+  offset: 3, 2
+  index: -1
+superhero/Superhero_pants_outline
+  rotate: true
+  xy: 144, 27
+  size: 54, 48
+  orig: 62, 53
+  offset: 3, 2
+  index: -1
+
+skeleton54.png
+size: 120,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+superhero_hat/Hat
+  rotate: false
+  xy: 1, 65
+  size: 118, 54
+  orig: 123, 57
+  offset: 2, 1
+  index: -1
+
+skeleton55.png
+size: 479,479
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+western_gunslinger/Belt
+  rotate: false
+  xy: 141, 182
+  size: 103, 78
+  orig: 654, 1203
+  offset: 246, 282
+  index: -1
+western_gunslinger/Belt_outline
+  rotate: false
+  xy: 359, 88
+  size: 112, 87
+  orig: 654, 1203
+  offset: 242, 277
+  index: -1
+western_gunslinger/L_arm
+  rotate: true
+  xy: 250, 176
+  size: 95, 209
+  orig: 654, 1203
+  offset: 196, 290
+  index: -1
+western_gunslinger/L_arm_outline
+  rotate: true
+  xy: 250, 373
+  size: 105, 218
+  orig: 654, 1203
+  offset: 192, 284
+  index: -1
+western_gunslinger/L_shoe
+  rotate: true
+  xy: 273, 25
+  size: 56, 82
+  orig: 654, 1203
+  offset: 251, 27
+  index: -1
+western_gunslinger/Pants
+  rotate: false
+  xy: 1, 180
+  size: 139, 298
+  orig: 654, 1203
+  offset: 258, 67
+  index: -1
+western_gunslinger/R_arm
+  rotate: true
+  xy: 250, 272
+  size: 100, 208
+  orig: 654, 1203
+  offset: 321, 291
+  index: -1
+western_gunslinger/R_arm_outline
+  rotate: false
+  xy: 141, 261
+  size: 108, 217
+  orig: 654, 1203
+  offset: 317, 286
+  index: -1
+western_gunslinger/R_shoe
+  rotate: true
+  xy: 190, 18
+  size: 63, 82
+  orig: 654, 1203
+  offset: 362, 33
+  index: -1
+western_gunslinger/Shirt
+  rotate: false
+  xy: 105, 10
+  size: 84, 169
+  orig: 654, 1203
+  offset: 260, 334
+  index: -1
+western_gunslinger/Tie_Upper
+  rotate: true
+  xy: 421, 35
+  size: 52, 48
+  orig: 654, 1203
+  offset: 280, 468
+  index: -1
+western_gunslinger/Tie_outline
+  rotate: false
+  xy: 359, 31
+  size: 61, 56
+  orig: 654, 1203
+  offset: 274, 464
+  index: -1
+western_gunslinger/Vest
+  rotate: true
+  xy: 190, 82
+  size: 93, 168
+  orig: 654, 1203
+  offset: 258, 339
+  index: -1
+western_gunslinger/Vest_outline
+  rotate: false
+  xy: 1, 1
+  size: 103, 178
+  orig: 654, 1203
+  offset: 256, 331
+  index: -1
+
+skeleton56.png
+size: 699,699
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+western_gunslinger_hat/Hat
+  rotate: false
+  xy: 1, 1
+  size: 582, 344
+  orig: 654, 1203
+  offset: 53, 725
+  index: -1
+western_gunslinger_hat/Hat_outline
+  rotate: false
+  xy: 1, 346
+  size: 589, 352
+  orig: 654, 1203
+  offset: 53, 720
+  index: -1
+
+skeleton57.png
+size: 934,934
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+witch/Cloak_back
+  rotate: false
+  xy: 1, 7
+  size: 347, 332
+  orig: 654, 1203
+  offset: 128, 135
+  index: -1
+witch/Cloak_back_outline
+  rotate: false
+  xy: 1, 340
+  size: 626, 593
+  orig: 654, 1203
+  offset: 20, 610
+  index: -1
+witch/L_arm
+  rotate: true
+  xy: 628, 344
+  size: 101, 209
+  orig: 654, 1203
+  offset: 194, 286
+  index: -1
+witch/L_arm_outline
+  rotate: false
+  xy: 743, 447
+  size: 110, 216
+  orig: 654, 1203
+  offset: 189, 278
+  index: -1
+witch/L_cloak
+  rotate: true
+  xy: 349, 166
+  size: 173, 437
+  orig: 654, 1203
+  offset: 118, 90
+  index: -1
+witch/L_shoe
+  rotate: false
+  xy: 867, 46
+  size: 57, 123
+  orig: 654, 1203
+  offset: 247, 26
+  index: -1
+witch/Pants
+  rotate: false
+  xy: 628, 664
+  size: 129, 269
+  orig: 654, 1203
+  offset: 256, 100
+  index: -1
+witch/R_arm
+  rotate: false
+  xy: 758, 725
+  size: 106, 208
+  orig: 654, 1203
+  offset: 310, 286
+  index: -1
+witch/R_arm_outline
+  rotate: false
+  xy: 628, 446
+  size: 114, 217
+  orig: 654, 1203
+  offset: 306, 280
+  index: -1
+witch/R_cloak
+  rotate: true
+  xy: 349, 1
+  size: 164, 433
+  orig: 654, 1203
+  offset: 316, 100
+  index: -1
+witch/R_shoe
+  rotate: true
+  xy: 787, 170
+  size: 80, 125
+  orig: 654, 1203
+  offset: 347, 32
+  index: -1
+witch/Shirt
+  rotate: false
+  xy: 783, 4
+  size: 83, 161
+  orig: 654, 1203
+  offset: 257, 345
+  index: -1
+witch/Skin_body
+  rotate: false
+  xy: 838, 251
+  size: 77, 195
+  orig: 654, 1203
+  offset: 262, 340
+  index: -1
+
+skeleton58.png
+size: 669,669
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+witch_hat/Hat
+  rotate: false
+  xy: 1, 1
+  size: 582, 330
+  orig: 654, 1203
+  offset: 16, 752
+  index: -1
+witch_hat/Hat_outline
+  rotate: false
+  xy: 1, 332
+  size: 589, 336
+  orig: 654, 1203
+  offset: 12, 748
+  index: -1
